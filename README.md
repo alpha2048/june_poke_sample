@@ -1,16 +1,16 @@
 # june_poke_sample
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/26202314/159030083-b02db49b-5f03-4493-bb74-487a666c9db3.png" width="200"/>  <img src="https://user-images.githubusercontent.com/26202314/159030129-b867e98e-8e96-4813-853d-8ade854862a9.png" width="200"/>
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This includes
 
-A few resources to get you started if this is your first Flutter project:
+- Poke API
+- [june](https://pub.dev/packages/june)
+- freezed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## description
+
+coming soon...
